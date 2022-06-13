@@ -1,7 +1,7 @@
 #get request is used to render a list of data or filter a list of data based on query string
 import requests
-payload={"firstname":"John","lastname":"Smith"}
-r=requests.get("https://httpbin.org/get",params=payload)
+payload={"firstname":"John","lastname":"Smith"}#dictionary
+r=requests.get("https://httpbin.org/get",params=payload)#params will convert the dictionary into a query string
 #httpbin.org---Base URL
 #/get-----
 #htttps://httpbin.org/get?firstname="John"

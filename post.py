@@ -9,7 +9,7 @@ print(r.url)#will reveal the full url
 print(r.status_code)#http response code
 print(r.text)#will return the response body which is decoded by the request library
 # {
-#   "args": {},
+#   "args": {}, 
 #   "data": "",
 #   "files": {},
 #   "form": {

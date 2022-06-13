@@ -1,5 +1,7 @@
-#get request is used to render a list of data or filter a list of data based on query string
+#post request is used to submitting data from an html form and uploading files
+#psost request allows larger amount of resources to be sent in a single request
 import requests
+
 payload={"firstname":"John","lastname":"Smith"}#dictionary
 r=requests.post("https://httpbin.org/post",data=payload)
 #post will receive data from a form
@@ -9,7 +11,7 @@ print(r.url)#will reveal the full url
 print(r.status_code)#http response code
 print(r.text)#will return the response body which is decoded by the request library
 # {
-#   "args": {}, 
+#   "args": {}, 1
 #   "data": "",
 #   "files": {},
 #   "form": {

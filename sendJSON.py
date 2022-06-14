@@ -6,7 +6,7 @@ data = {'firstName':'John'}
 r = requests.post ('https://httpbin.org/post',json = data)
 print ( r.text )
 # {
-#   "args": {},
+#   "args": {}, 
 #   "data": "{\"firstName\": \"John\"}",
 #   "files": {},
 #   "form": {},

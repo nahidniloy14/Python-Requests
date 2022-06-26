@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f91d5a5-0173-459a-9ce5-3554a5902e2a" name="Changes" comment="origin issues solved">
-      <change afterPath="$PROJECT_DIR$/Session.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f91d5a5-0173-459a-9ce5-3554a5902e2a" name="Changes" comment="Session on Github">
+      <change beforePath="$PROJECT_DIR$/cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656241750025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="origin issues solved">
+      <created>1656242748664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656242748664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Session on Github">
+      <created>1656242777646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656242777646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Authentication on Github.com" />
     <MESSAGE value="origin issues solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="origin issues solved" />
+    <MESSAGE value="Session on Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session on Github" />
   </component>
 </project>

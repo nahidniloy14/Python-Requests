@@ -13,3 +13,11 @@ print ( res.text )
 #     "key1": "value1"
 #   }
 # }
+
+url="http://rahulshettyacademy.com"
+visitMonthCookie={"visit-month":"March"}
+
+response=requests.get(url,cookies=visitMonthCookie)
+print(response.status_code)
+
+

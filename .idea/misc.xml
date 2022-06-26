@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (PythonRequests)" project-jdk-type="Python SDK" />
-=======
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Rest API's)" project-jdk-type="Python SDK" />
->>>>>>> f6217b8 (origin)
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (SeleniumLearningSession)" project-jdk-type="Python SDK" />
 </project>
